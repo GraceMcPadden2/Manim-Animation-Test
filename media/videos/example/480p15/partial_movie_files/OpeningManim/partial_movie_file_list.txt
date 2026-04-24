@@ -1,0 +1,11 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/1584795214_1614635317_223132457.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_2834709167_2553385055.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_1806939415_2070871471.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_2834709167_800074432.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_2417920527_1650429563.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_2834709167_3843318230.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_1267000256_4169450933.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_2834709167_3235403222.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_825811141_1097951088.mp4'
+file 'file:/Users/grace/Desktop/Mini 5/media/videos/example/480p15/partial_movie_files/OpeningManim/4072820271_2834709167_2390623845.mp4'
